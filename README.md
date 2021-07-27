@@ -7,7 +7,8 @@ is useful when we need to use a late subscription it stores the last value emitt
 
 ### AsyncSubject
 ````````````````
-is useful when we need to make intermediate calculations and stores the last emitted value after that calculations after we use the complete method.
+is useful when we need to make intermediate calculations and
+stores the last emitted value after that calculations after we use the complete method.
 ````````````````
 
 ### ReplaySubject
